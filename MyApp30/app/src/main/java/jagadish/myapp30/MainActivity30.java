@@ -223,7 +223,7 @@ public class MainActivity30 extends Activity {
 
                 else
                 {
-                        edittext2.setText(edtext2+"1");
+                        edittext2.setText(edtext2+"4");
                 }
             }
 
