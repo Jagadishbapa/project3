@@ -5,7 +5,7 @@ Cosc 5730
 Description:  (how to run the program, phone/emulator screen size, android version ie 7.0)
 
 Run App
-emulator-1080*1920;420dpi
+emulator-nexus 5x 1080*1920;420dpi
 android version-6.0
 
 
